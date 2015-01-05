@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:003707_0000_100202ECDCE4F130"/>
-            <pb facs="tcp:003707_0001_10024920B47AFB78" rendition="simple:additions"/>
+            <pb facs="unknown:003707_0000_100202ECDCE4F130"/>
+            <pb facs="unknown:003707_0001_10024920B47AFB78"
+                rendition="simple:additions"/>
             <head>A LETTER From a Gentleman in New-York, to his Friend in London.</head>
             <opener>
                <salute>SIR,</salute>
@@ -127,7 +128,7 @@
             <p>The People of this Province have always paid the greatest Regard to His Majesty's Representative, and I am sorry to say, that they have too often made concessions not so beneficial to the Country.</p>
             <p>
                <pb n="2"
-                   facs="tcp:003707_0002_1002492330609138"
+                   facs="unknown:003707_0002_1002492330609138"
                    rendition="simple:additions"/>Our Governour's great Services in stopping of the Sugar Bill, were set forth in such a Manner<g ref="char:punc">▪</g> that I don't see which way they could refrain from drawing the Purse-strings of their Constituents; They were told, He fetch'd Lords one hundred Miles out of the Country to stop the Bill, That he stay'd in <hi>England</hi> three Months longer than he needed to have done, only for the Benefit of the Province, That had he come away, the Bill would have Passed, to the intire ruin of the Country; with many other Things too long to commit to Paper.</p>
             <p>He also wisely took care not to communicate the following Instructions, tho' he had express Orders so to do, <hi>Viz.</hi>
             </p>
@@ -138,7 +139,7 @@
 <q>And We do further Direct and Re<g ref="char:EOLhyphen"/>quire, that the Declaration of Our Royal Will and Pleasure in the fore<g ref="char:EOLhyphen"/>going Instruction, be communicated to the Assembly at their first Meet<g ref="char:EOLhyphen"/>ing after Your arrival in Our said Province, and entered in the Re<g ref="char:EOLhyphen"/>gister of Our Council and Assembly, that all Persons whom it may concern may govern themselves accordingly.</q>
             </p>
             <p>Now no Man of Person can imagine, if the Assembly had seen these Instructions, they wou'd ever have offered a Present, when the Accepting of it upon any terms, must have lost him his Government: Besides if you will observe, the Assembly have taken care so to Resolve it, that they may be clear of any blame by leaving of it to the Concurrence of the Council, who without dispute must know all his Instructions, at least
-<pb n="3" facs="tcp:003707_0003_1002494BAB73EE90"/>
+<pb n="3" facs="unknown:003707_0003_1002494BAB73EE90"/>
 those where their Advice and Consent is necessary, as it is in this case, as you will observe by the following Instruction, <hi>viz.</hi>
                <q>You are forth<g ref="char:EOLhyphen"/>with to communicate unto Our said Council, such and so many of these Our Instructions wherein their Advice and Consent is mentioned to be requisite; as likewise all such others from time to time, as You shall find convenient for Our Service to be imparted</q>;
 therefore it is hoped they cannot concur.</p>
